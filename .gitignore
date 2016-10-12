@@ -1,3 +1,8 @@
+/app/config/app.php
+/app/config/database.php
+/app/storage
+/public/ckfinder
+/public/images
 /bootstrap/compiled.php
 /vendor
 composer.phar
